@@ -1,0 +1,3 @@
+internal proxy cert
+fingerprint (sha1):
+9F:2A:3C:7B:11:9F:2A:3C:7B:11:9F:2A:3C:7B:11
