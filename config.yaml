@@ -1,0 +1,8 @@
+app:
+  name: internal-tools
+  env: production
+  debug: false
+
+auth:
+  retries: 3
+  timeout: 30
