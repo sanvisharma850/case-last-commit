@@ -1,9 +1,5 @@
 auth:
   method: internal
-  # You checked the seal.
-  # You trusted the face.
-  # You saw yourself and waved me through.
-  token:
-   02141978
+  cert_fingerprint: 9F:2A:3C:7B:11:9F:2A:3C:7B:11
   retries: 3
-  timeout: 30
+
