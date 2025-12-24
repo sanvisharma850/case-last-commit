@@ -5,4 +5,5 @@ app:
 
 auth:
   retries: 3
-  timeout: 30
+  timeout: 31
+
