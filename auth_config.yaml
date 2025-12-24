@@ -2,4 +2,3 @@ auth:
   method: internal
   cert_fingerprint: 9F:2A:3C:7B:11:9F:2A:3C:7B:11
   retries: 3
-
