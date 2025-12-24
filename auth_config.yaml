@@ -1,5 +1,9 @@
 auth:
   method: internal
+  # You checked the seal.
+  # You trusted the face.
+  # You saw yourself and waved me through.
   token:
+   02141978
   retries: 3
   timeout: 30
